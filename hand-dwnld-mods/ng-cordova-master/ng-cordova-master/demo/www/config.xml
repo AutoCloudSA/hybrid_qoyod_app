@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:gap="http://phonegap.com/ns/1.0"
+        xmlns="http://www.w3.org/ns/widgets"
+        id="com.ionicframework.ngCordovaDemoUnique"
+        versionCode=""
+        version="">
+  <name>ngCordovaDemo</name>
+  <description>Demo app for ngCordova plugins</description>
+</widget>
