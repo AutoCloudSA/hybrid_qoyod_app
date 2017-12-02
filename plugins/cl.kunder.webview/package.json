@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-second-webview",
+        "scope": null,
+        "escapedName": "cordova-second-webview",
+        "name": "cordova-second-webview",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\aly\\xampp\\htdocs\\qoyod-app"
+    ]
+  ],
+  "_from": "cordova-second-webview@latest",
+  "_id": "cordova-second-webview@2.3.1",
+  "_inCache": true,
+  "_location": "/cordova-second-webview",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-second-webview-2.3.1.tgz_1460485208512_0.7994866638910025"
+  },
+  "_npmUser": {
+    "name": "yuanwowo",
+    "email": "runrun912@live.com"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-second-webview",
+    "scope": null,
+    "escapedName": "cordova-second-webview",
+    "name": "cordova-second-webview",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-second-webview/-/cordova-second-webview-2.3.1.tgz",
+  "_shasum": "c6b81129478784e1f1248e4e4afb1d3a6ba39544",
+  "_shrinkwrap": null,
+  "_spec": "cordova-second-webview",
+  "_where": "C:\\aly\\xampp\\htdocs\\qoyod-app",
+  "author": {
+    "name": "kunder"
+  },
+  "bugs": {
+    "url": "https://github.com/arturokunder/cl.kunder.webview/issues"
+  },
+  "cordova": {
+    "id": "cl.kunder.webview",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "description": "This cordova plugin enables you to open a second webview in your app. This webview is totally independent from the main webview, but allows you tu access plugins and other Cordova resources. It's possible to modify this plugin to allow multiple webviews.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c6b81129478784e1f1248e4e4afb1d3a6ba39544",
+    "tarball": "https://registry.npmjs.org/cordova-second-webview/-/cordova-second-webview-2.3.1.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/arturokunder/cl.kunder.webview#readme",
+  "keywords": [
+    "cordova",
+    "webview"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "yuanwowo",
+      "email": "runrun912@live.com"
+    }
+  ],
+  "name": "cordova-second-webview",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturokunder/cl.kunder.webview.git"
+  },
+  "scripts": {},
+  "version": "2.3.1"
+}

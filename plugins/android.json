@@ -1,0 +1,57 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cl.kunder.webview": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "com.cordova.plugins.cookiemaster": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-networkinterface": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.pitech.qoyodapp"
+    }
+  },
+  "dependent_plugins": {}
+}

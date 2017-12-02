@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "com.cordova.plugins.cookiemaster",
+        "scope": null,
+        "escapedName": "com.cordova.plugins.cookiemaster",
+        "name": "com.cordova.plugins.cookiemaster",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\aly\\xampp\\htdocs\\qoyoud-app"
+    ]
+  ],
+  "_from": "com.cordova.plugins.cookiemaster@latest",
+  "_id": "com.cordova.plugins.cookiemaster@1.0.1",
+  "_inCache": true,
+  "_location": "/com.cordova.plugins.cookiemaster",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/com.cordova.plugins.cookiemaster-1.0.1.tgz_1456438673919_0.554620718350634"
+  },
+  "_npmUser": {
+    "name": "schoettler",
+    "email": "roberto.vonschoettler@gmail.com"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "com.cordova.plugins.cookiemaster",
+    "scope": null,
+    "escapedName": "com.cordova.plugins.cookiemaster",
+    "name": "com.cordova.plugins.cookiemaster",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com.cordova.plugins.cookiemaster/-/com.cordova.plugins.cookiemaster-1.0.1.tgz",
+  "_shasum": "b09a2d691edec63fac8f9dd8aa67af33438ca645",
+  "_shrinkwrap": null,
+  "_spec": "com.cordova.plugins.cookiemaster",
+  "_where": "C:\\aly\\xampp\\htdocs\\qoyoud-app",
+  "cordova_name": "CookieMaster",
+  "dependencies": {},
+  "description": "This plugin enables the management of cookies in WebViews on iOS and Android as those platforms restrict the use of \"document.cookie\".",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b09a2d691edec63fac8f9dd8aa67af33438ca645",
+    "tarball": "https://registry.npmjs.org/com.cordova.plugins.cookiemaster/-/com.cordova.plugins.cookiemaster-1.0.1.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "d3bbd11536d6961dc53ea2090839b838c0f0fdc3",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "cookie",
+    "cookies",
+    "cookie-manager",
+    "cookie-plugin"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "schoettler",
+      "email": "roberto.vonschoettler@gmail.com"
+    }
+  ],
+  "name": "com.cordova.plugins.cookiemaster",
+  "optionalDependencies": {},
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.1"
+}
